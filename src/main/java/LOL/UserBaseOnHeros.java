@@ -1,6 +1,7 @@
 /**
  * @Title: UserBaseOnHeros.java
  * @Description:
+ * 基于用户的胜率排名
  * @Copyright: Copyright (c) 2018 
  * @Company:nuaa
  * @author xck&kevin
